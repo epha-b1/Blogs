@@ -1,3 +1,5 @@
+import UserCard from "./UserCard";
+
 const peopleToFollow = [
   { name: "Alena Gouse", following: false },
   { name: "Ruben Bator", following: true },
